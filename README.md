@@ -1,5 +1,5 @@
-# Hardware-company-sales-analysis
-<h1>ATLIQ-HARDWARE-SALES-INSIGHTS-DATA-ANALYSIS-AND-VISUALIZATION</h1>
+# <h1>ATLIQ-HARDWARE-SALES-INSIGHTS-DATA-ANALYSIS-AND-VISUALIZATION </h1>
+
 <h5>Microsoft Power Bi, Mysql, Data Wrangling.</h5>
 <p>
 Mysql database has all sales transactions, customers, products and markets information.
