@@ -10,6 +10,6 @@ build a powerful dashboard that can help us generate sales insights on Atliq har
 <h4>TOTAL SALES</h4>
 <img src="Dashboard 1.png" alt="Sales Insights">
 <h4>SALES 2019</h4>
-<img src="dashboard 2.png" alt="Sales Insights">
+<img src="Dashboard 2.png" alt="Sales Insights">
 <h4>SALES 2020</h4>
-<img src="dashboard 3.png" alt="Sales Insights">
+<img src="Dashboard 3.png" alt="Sales Insights">
